@@ -1,6 +1,6 @@
 ---
-layout : slide
-title : "Welcome to our second slide!"
+layout : Frame
+title : "Welcome to our new Frame!"
 ---
 Your test
 Use the left arrow to go back!
